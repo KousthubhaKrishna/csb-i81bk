@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://kousthubhakrishna.github.io/csb-i81bk/static/css/main.59cb85ea.chunk.css",
-    "main.js": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/main.cc832844.chunk.js",
-    "main.js.map": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/main.cc832844.chunk.js.map",
+    "main.js": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/main.7666c2f0.chunk.js",
+    "main.js.map": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/main.7666c2f0.chunk.js.map",
     "runtime-main.js": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/runtime-main.2f75be1f.js",
     "runtime-main.js.map": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/runtime-main.2f75be1f.js.map",
     "static/js/2.e356ad06.chunk.js": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/2.e356ad06.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2f75be1f.js",
     "static/js/2.e356ad06.chunk.js",
     "static/css/main.59cb85ea.chunk.css",
-    "static/js/main.cc832844.chunk.js"
+    "static/js/main.7666c2f0.chunk.js"
   ]
 }
