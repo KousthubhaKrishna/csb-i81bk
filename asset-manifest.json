@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-i81bk/static/css/main.59cb85ea.chunk.css",
-    "main.js": "https://.github.io/csb-i81bk/static/js/main.22a65f65.chunk.js",
-    "main.js.map": "https://.github.io/csb-i81bk/static/js/main.22a65f65.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-i81bk/static/js/runtime-main.ad334cbb.js",
-    "runtime-main.js.map": "https://.github.io/csb-i81bk/static/js/runtime-main.ad334cbb.js.map",
-    "static/js/2.23032e1c.chunk.js": "https://.github.io/csb-i81bk/static/js/2.23032e1c.chunk.js",
-    "static/js/2.23032e1c.chunk.js.map": "https://.github.io/csb-i81bk/static/js/2.23032e1c.chunk.js.map",
-    "index.html": "https://.github.io/csb-i81bk/index.html",
-    "static/css/main.59cb85ea.chunk.css.map": "https://.github.io/csb-i81bk/static/css/main.59cb85ea.chunk.css.map",
-    "static/js/2.23032e1c.chunk.js.LICENSE.txt": "https://.github.io/csb-i81bk/static/js/2.23032e1c.chunk.js.LICENSE.txt"
+    "main.css": "https://kousthubhakrishna.github.io/csb-i81bk/static/css/main.59cb85ea.chunk.css",
+    "main.js": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/main.cc832844.chunk.js",
+    "main.js.map": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/main.cc832844.chunk.js.map",
+    "runtime-main.js": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/runtime-main.2f75be1f.js",
+    "runtime-main.js.map": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/runtime-main.2f75be1f.js.map",
+    "static/js/2.e356ad06.chunk.js": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/2.e356ad06.chunk.js",
+    "static/js/2.e356ad06.chunk.js.map": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/2.e356ad06.chunk.js.map",
+    "index.html": "https://kousthubhakrishna.github.io/csb-i81bk/index.html",
+    "static/css/main.59cb85ea.chunk.css.map": "https://kousthubhakrishna.github.io/csb-i81bk/static/css/main.59cb85ea.chunk.css.map",
+    "static/js/2.e356ad06.chunk.js.LICENSE.txt": "https://kousthubhakrishna.github.io/csb-i81bk/static/js/2.e356ad06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad334cbb.js",
-    "static/js/2.23032e1c.chunk.js",
+    "static/js/runtime-main.2f75be1f.js",
+    "static/js/2.e356ad06.chunk.js",
     "static/css/main.59cb85ea.chunk.css",
-    "static/js/main.22a65f65.chunk.js"
+    "static/js/main.cc832844.chunk.js"
   ]
 }
